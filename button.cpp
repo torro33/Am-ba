@@ -41,3 +41,4 @@ bool Button::Setselected(bool b){
 void Button::Setplayer(string s){
     player = s;
 }
+//
